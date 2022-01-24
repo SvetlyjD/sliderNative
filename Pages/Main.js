@@ -15,7 +15,7 @@ export class Main extends React.Component {
                     </View>
                     <View style={tw`flex mx-auto w-4/6 mt-5`}>
                         <View style={tw`text-center`}>
-                            <Text>Здесь должноjjjjj быть приветствие</Text>
+                            <Text>Здесь должно быть приветствие</Text>
                         </View>
                     </View>
                 </View>
@@ -23,4 +23,4 @@ export class Main extends React.Component {
         );
     }
 }
-// export default Main;
+
