@@ -1,3 +1,4 @@
+
 import {actionLinks} from './actionType';
 
 export function setLink(link) {
@@ -6,3 +7,4 @@ export function setLink(link) {
     link: link,
   };
 }
+ 
